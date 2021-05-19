@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 
 - 💬 Ask me about job offers too
 - 
-- 📫 How to reach me: fabioeagle72@gmail.com or instagram @fabiocamposeagle
+- 📫 How to reach me: fabioeagle72@gmail.com 
 
