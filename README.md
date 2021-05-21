@@ -54,7 +54,7 @@ Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, 
 <br />
 <hr />
 
-<p align='center'> Thanks for your visit. 😁
+<p align='center'> Thanks for your visit 😁
 </p>
 
 
