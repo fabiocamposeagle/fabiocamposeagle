@@ -52,8 +52,6 @@ Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, 
 <br />
 <br />
 <hr />
-
-
 <p align='center'> Thanks for your visit 😁</p>
 <!--
 **fabiocamposeagle/fabiocamposeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
