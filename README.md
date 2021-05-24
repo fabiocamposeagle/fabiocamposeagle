@@ -2,7 +2,7 @@
 <h2 align='center'> 
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px" /> Hello, world! I'm Fábio Campos 👋
 </h2>
- <p align='center'><i>❝Quanto mais eu aprendo, mais eu sou capaz❞</i></p>
+ <p align='center'><i>❝I'm able to learn 1% every day programming something new.❞</i></p>
 </div>
 
 <h5 align="center">
@@ -12,7 +12,7 @@
   </code>
 </h5>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/62512557/119414092-478e0100-bcc5-11eb-829a-512051ff8613.jpg" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 About me
 
