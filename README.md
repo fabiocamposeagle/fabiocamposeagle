@@ -38,8 +38,8 @@ Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, 
 
 <p align="center">
   <a href="https://github.com/fabiocamposeagle">
-   <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiocamposeagle&show_icons=true" />
-   <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocamposeagle&layout=compact" />
+    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiocamposeagle&show_icons=true" />
+    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocamposeagle&layout=compact" />
   </a>
 </p>
 <br />
@@ -52,6 +52,7 @@ Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, 
 <br />
 <br />
 <hr />
+
 <p align='center'> Thanks for your visit 😁</p>
 <!--
 **fabiocamposeagle/fabiocamposeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
