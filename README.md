@@ -32,13 +32,13 @@ Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, 
 - 💬 Pode me perguntar sobre qualquer coisa, ficarei feliz em ajudar :D
 - -->
 
-## 
+## TECHNOLOGY AND TOOLS
  
 <img src='https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white' /> <img src='https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white' /> <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' /> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' /> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' /> <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' /> 
 
 <p align="center">
   <a href="https://github.com/fabiocamposeagle">
-    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiocamposeagle&show_icons=true" />
+    <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiocamposeagle&show_icons=true" />
     <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocamposeagle&layout=compact" />
   </a>
 </p>
