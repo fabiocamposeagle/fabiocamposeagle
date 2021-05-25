@@ -38,8 +38,8 @@ Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, 
 
 <p align="center">
   <a href="https://github.com/fabiocamposeagle">
-   <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=julianapedroso&show_icons=true" />
-    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapedroso&layout=compact" />
+   <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiocamposeagle&show_icons=true" />
+    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocamposeagle&layout=compact" />
   </a>
 </p>
 <br />
