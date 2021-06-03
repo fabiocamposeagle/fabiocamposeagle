@@ -12,7 +12,7 @@
   </code>
 </h5>
 
-<img src="https://user-images.githubusercontent.com/62512557/119414092-478e0100-bcc5-11eb-829a-512051ff8613.jpg" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/62512557/119414092-478e0100-bcc5-11eb-829a-512051ff8613.jpg" min-width="300px" max-width="150px" width="150px" align="right" alt="Computador">
 
 About me
 
@@ -38,8 +38,8 @@ Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, 
 
 <p align="center">
   <a href="https://github.com/fabiocamposeagle">
-    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiocamposeagle&show_icons=true" />
-    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocamposeagle&layout=compact" />
+    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=fabiocamposeagle&show_icons=true" />
+    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocamposeagle&layout=compact" />
   </a>
 </p>
 <br />
