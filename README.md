@@ -20,8 +20,6 @@ About me
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
 - - Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
 
-- I am also a student at Udemy (https://www.udemy.com/course/spring-boot-ionic/)
-- Full-stack project complete! Java Spring Boot on the back end and Ionic on the front end. From UML design to Heroku and Play Store!
 - 💌 For further clarification or invitations to contributions and partnerships,
 - 💬 Ask me about job offers too
 - 📫 How to reach me: fabioeagle72@gmail.com 
