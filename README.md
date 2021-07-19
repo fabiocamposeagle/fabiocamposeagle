@@ -19,8 +19,7 @@ About me
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
 - - Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
-- I am also a student at Udemy (https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
-- - Variables and Data Types; - Logical and Conditional Structures; - Decision and Repetition Structures; - Collections (Lists, Tuples, Sets, etc); - Functions; - Lambdas expressions; - Debug your code and handle errors; - Modules; - Reading and Writing files; - Iterators and Generators; - Decorators; - Object orientation; - Inheritance and Polymorphism; - Handling CSV and JSON files; - Date and Hours; - Tests; - Memory allocation and management; - New from Python 3.8; - Project 1: Game; - Project 2: Market; - Project 3: Bank.
+
 - I am also a student at Udemy (https://www.udemy.com/course/spring-boot-ionic/)
 - Full-stack project complete! Java Spring Boot on the back end and Ionic on the front end. From UML design to Heroku and Play Store!
 - 💌 For further clarification or invitations to contributions and partnerships,
