@@ -18,7 +18,13 @@ About me
 
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
-- - Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
+-  Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
+
+I'm learning angular technology applied by Google at the Pan bootcamp
+in 2021 I participated in two bootcamps at the school https://online.igti.com.br/
+
+-  2021-3 - Bootcamp Desenvolvedor(a) React
+-  Bootcamp Desenvolvedor Tech PAN 
 
 - 💌 For further clarification or invitations to contributions and partnerships,
 - 💬 Ask me about job offers too
