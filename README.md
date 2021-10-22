@@ -4,15 +4,15 @@
 </h2>
  <p align='center'><i>❝I'm able to learn 1% every day programming something new.❞</i></p>
 </div>
-
+<p align="left">
+  <img src="images/card.png" alt="card" padding="12px" width="250px" height="350px length="150px"/>
+  </p>
 <h5 align="center">
   <code>
     <a target="_blank" href="https://www.linkedin.com/in/fábiocamposeagle" title="LinkedIn"> 
       <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
   </code>
-  <p align="left">
-  <img src="images/card.png" alt="card" padding="12px" width="250px" height="350px length="150px"/>
-</p>
+  
 </h5>
 
 
