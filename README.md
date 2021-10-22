@@ -12,7 +12,7 @@
   </code>
 </h5>
 
-<img src="!(https://user-images.githubusercontent.com/62512557/138518134-1c0ece9e-c3ba-4d17-b87c-32919088a56d.jpg)" min-width="100px" max-width="200px" width="200px" align="right" alt="Computador">
+<img src="(https://user-images.githubusercontent.com/62512557/138518134-1c0ece9e-c3ba-4d17-b87c-32919088a56d.jpg) min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
 
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
