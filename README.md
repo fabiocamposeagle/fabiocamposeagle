@@ -7,7 +7,8 @@
   <p align="center"/>
      <img src="images/card.png" alt="card" padding="1px" width="200px" height="300px length="100px" >
   </p>
-  <link src="https://fabiocamposeagle.github.io/virtual.badge/ ">This is my business card go to the link with SocialMedia</link>
+  <link align="center ">This is my business card go to the link with SocialMedia</link>
+   src="https://fabiocamposeagle.github.io/virtual.badge/ 
   <h5 align="center">
   <code>
     <a target="_blank" href="https://www.linkedin.com/in/fábiocamposeagle" title="LinkedIn"> 
