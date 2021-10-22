@@ -10,11 +10,12 @@
     <a target="_blank" href="https://www.linkedin.com/in/fábiocamposeagle" title="LinkedIn"> 
       <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
   </code>
-</h5>
-
-<p align="right">
+  <p align="right">
   <img src="images/card.png" alt="card" padding="2px" width="220px" height="400px"/>
 </p>
+</h5>
+
+
      
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
