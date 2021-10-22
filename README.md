@@ -10,7 +10,10 @@
   <p align="center "/>
   This is my business card go to the link with SocialMedia
   </p>
-   src="https://fabiocamposeagle.github.io/virtual.badge/ 
+  <p align="center "/>
+  https://fabiocamposeagle.github.io/virtual.badge/ 
+  </p>
+   
   <h5 align="center">
   <code>
     <a target="_blank" href="https://www.linkedin.com/in/fábiocamposeagle" title="LinkedIn"> 
