@@ -10,8 +10,8 @@
     <a target="_blank" href="https://www.linkedin.com/in/fábiocamposeagle" title="LinkedIn"> 
       <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
   </code>
-  <p align="right">
-  <img src="images/card.png" alt="card" padding="12px" width="320px" height="250px length="200px"/>
+  <p align="left">
+  <img src="images/card.png" alt="card" padding="12px" width="320px" height="350px length="200px"/>
 </p>
 </h5>
 
