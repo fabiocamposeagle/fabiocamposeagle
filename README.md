@@ -12,7 +12,7 @@
   </code>
 </h5>
 
-<img src="(https://user-images.githubusercontent.com/62512557/138517906-54df9d04-a851-41c2-9218-dbd1a4d75fb0.jpg" min-width="300px" max-width="200px" width="200px" align="right" alt="Computador">
+<img src="(https://user-images.githubusercontent.com/62512557/138517906-54df9d04-a851-41c2-9218-dbd1a4d75fb0.jpg)" min-width="300px" max-width="200px" width="200px" align="right" alt="Computador">
 
 About me
 
