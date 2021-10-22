@@ -11,7 +11,7 @@
       <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
   </code>
   <p align="right">
-  <img src="images/card.png" alt="card" padding="2px" width="220px" height="400px length="200px"/>
+  <img src="images/card.png" alt="card" padding="12px" width="220px" height="400px length="200px"/>
 </p>
 </h5>
 
