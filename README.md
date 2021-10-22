@@ -13,7 +13,7 @@
 </h5>
 
 <p align="right">
-  <img src="images/card.png" alt="card" width="220px" height="300px"/>
+  <img src="images/card.png" alt="card" padding="2px" width="220px" height="400px"/>
 </p>
      
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
