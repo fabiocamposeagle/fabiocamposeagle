@@ -12,7 +12,8 @@
   </code>
 </h5>
 
-<img src="(https://user-images.githubusercontent.com/62512557/138518134-1c0ece9e-c3ba-4d17-b87c-32919088a56d.jpg)" />
+<img src="![Captura de tela 2021-10-22 171615](https://user-images.githubusercontent.com/62512557/138518134-1c0ece9e-c3ba-4d17-b87c-32919088a56d.jpg)
+" width="100px"/>
      
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
