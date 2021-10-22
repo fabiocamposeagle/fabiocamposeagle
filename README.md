@@ -12,7 +12,8 @@
   </code>
 </h5>
 
-<img src="(https://user-images.githubusercontent.com/62512557/138517906-54df9d04-a851-41c2-9218-dbd1a4d75fb0.jpg)" min-width="300px" max-width="200px" width="200px" align="right" alt="Computador">
+<img src="![Captura de tela 2021-10-22 171615](https://user-images.githubusercontent.com/62512557/138518134-1c0ece9e-c3ba-4d17-b87c-32919088a56d.jpg)
+" min-width="300px" max-width="200px" width="200px" align="right" alt="Computador">
 
 About me
 
