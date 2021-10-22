@@ -13,7 +13,7 @@
 </h5>
 
 <p align="right">
-  <img src="![Captura de tela 2021-10-22 171615](https://user-images.githubusercontent.com/62512557/138518134-1c0ece9e-c3ba-4d17-b87c-32919088a56d.jpg)" min-width="120px"  height="120px" title="card">
+  <img src="![Captura de tela 2021-10-22 171615](https://user-images.githubusercontent.com/62512557/138518134-1c0ece9e-c3ba-4d17-b87c-32919088a56d.jpg)" min-width="120px"  height="220px" max-width="320px" title="card">
 </p>
      
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
