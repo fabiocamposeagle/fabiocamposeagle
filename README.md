@@ -12,7 +12,10 @@
   </code>
 </h5>
 
-<img src="![Captura de tela 2021-10-22 171615](https://user-images.githubusercontent.com/62512557/138518134-1c0ece9e-c3ba-4d17-b87c-32919088a56d.jpg)" min-width="140px "/>
+<p align="center">
+  <img src="![Captura de tela 2021-10-22 171615](https://user-images.githubusercontent.com/62512557/138518134-1c0ece9e-c3ba-4d17-b87c-32919088a56d.jpg)" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
      
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
