@@ -7,7 +7,9 @@
   <p align="center"/>
      <img src="images/card.png" alt="card" padding="1px" width="200px" height="300px length="100px" >
   </p>
-  <link align="center ">This is my business card go to the link with SocialMedia</link>
+  <p align="center "/>
+  This is my business card go to the link with SocialMedia
+  </p>
    src="https://fabiocamposeagle.github.io/virtual.badge/ 
   <h5 align="center">
   <code>
