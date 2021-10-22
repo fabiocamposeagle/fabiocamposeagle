@@ -4,8 +4,8 @@
 </h2>
  <p align='center'><i>❝I'm able to learn 1% every day programming something new.❞</i></p>
 </div>
-<p align="left">
-  <img src="images/card.png" alt="card" padding="12px" width="250px" height="350px length="150px"/>
+<p align="center">
+  <img src="images/card.png" alt="card" padding="12px" width="270px" height="350px length="150px"/>
   </p>
 <h5 align="center">
   <code>
