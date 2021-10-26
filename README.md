@@ -22,10 +22,10 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 
 - 💌 For further clarification or invitations to contributions and partnerships,
 - 💬 Ask me about job offers too
-- 📫 How to reach me: fabioeagle72@gmail.com 
 - 💬 You can ask me about anything, I will be happy to help: D
 
-  
+## 🛠 &nbsp;Tech Stack in use
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
