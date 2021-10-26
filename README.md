@@ -1,29 +1,15 @@
 <div align='center'>
 <img align="right" height="590em" 
 src=":	https://github.com/fabiocamposeagle/fabiocamposeagle/blob/main/images/card.png?raw=true"/>
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fábio Campos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faviocamposeagle&color=yellow" alt="Profile views" /> </p>
  <p align='center'><i>❝I'm able to learn 1% every day programming something new.❞</i></p>
 </div>
 
-  <p align="center "/>
+<p align="center "/>
   This is my business card go to the link with SocialMedia
-  </p>
-  <p align="center "/>
-  https://fabiocamposeagle.github.io/virtual.badge/ 
-  </p>
-   
-  <h5 align="center">
-  <code>
-    <a target="_blank" href="https://www.linkedin.com/in/fábiocamposeagle" title="LinkedIn"> 
-      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn
-    </a>
-  </code>
-  
-</h5>
-
-
-     
+</p>
+        
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
 -  Master Web, 14 Courses + Projects, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
@@ -38,15 +24,6 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 - 💬 Ask me about job offers too
 - 📫 How to reach me: fabioeagle72@gmail.com 
 - 💬 You can ask me about anything, I will be happy to help: D
-<!--## Sobre mim
-- 💼 Atualmente aprendendo muito como Desenvolvedor na Udemy (https://www.udemy.com/course/curso-web/)
-- Também sou estudante da Udemy Curso Web Moderno Completo com JavaScript 2021 + Projetos
-  Domine Web, 14 Cursos + Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
- 👩‍💻 Também sou estudante Full Stack pela [Labenu](https://www.labenu.com.br/) 
-- 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias,
-- 💬 Pode me perguntar sobre qualquer coisa, ficarei feliz em ajudar :D
-- -->
-
 
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -85,7 +62,7 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 </a>
 </p>
 
-
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 <br><br>
 
