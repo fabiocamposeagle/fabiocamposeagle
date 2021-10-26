@@ -2,7 +2,9 @@
 
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fábio Campos</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiocamposeagle&color=yellow" alt="Profile views" /> </p>
+
+- I'm a full stack developer at the moment I'm more improving my knowledge with front-end
         
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
