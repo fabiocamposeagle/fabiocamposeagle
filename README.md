@@ -1,7 +1,8 @@
 <div align='center'>
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="590em" 
+src=":	https://github.com/fabiocamposeagle/fabiocamposeagle/blob/main/images/card.png?raw=true"/>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faviocamposeagle&color=yellow" alt="Profile views" /> </p>
  <p align='center'><i>❝I'm able to learn 1% every day programming something new.❞</i></p>
 </div>
 
@@ -46,7 +47,7 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 - 💬 Pode me perguntar sobre qualquer coisa, ficarei feliz em ajudar :D
 - -->
 
- 
+
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
@@ -72,11 +73,9 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
+  
 <a href="https://twitter.com/fabioeagle72" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-fabioeagle72-05122A?style=flat&logo=twitter" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-fabioeagle72-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/fabiocamposeagle" target="_blank">
   <img align="center" src="https://img.shields.io/badge/fabiocamposeagle-05122A?style=flat&logo=linkedin" alt="linkedin"/>
