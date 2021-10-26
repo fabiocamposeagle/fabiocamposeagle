@@ -1,11 +1,6 @@
-<div align='center'>
-<img align="right" height="590em" 
-src=":	https://github.com/fabiocamposeagle/fabiocamposeagle/blob/main/images/card.png?raw=true"/>
+<img align="right" height="590em" src="<script src="https://gist.github.com/fabiocamposeagle/8e3fac43c2cf6ceffad2671e48485d9a.js"/>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fábio Campos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faviocamposeagle&color=yellow" alt="Profile views" /> </p>
- <p align='center'><i>❝I'm able to learn 1% every day programming something new.❞</i></p>
-</div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 <p align="center "/>
   This is my business card go to the link with SocialMedia
 </p>
@@ -40,6 +35,7 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 ![TypeScript](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
   
  ## ⚙️ &nbsp;GitHub Analytics
+ 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=fabiocamposeagle&show_icons=true&theme=vision-friendly-dark" alt="fabiocamposeagle's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocamposeagle&layout=compact&theme=vision-friendly-dark" alt="fabiocamposeagle's most languages"/>
@@ -62,7 +58,6 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=fabiocampos72&layout=wide&show_reply=off&show_retweet=off" />
 
 <br><br>
 
