@@ -1,9 +1,8 @@
 <img align="right" height="590em" src="https://user-images.githubusercontent.com/62512557/138941827-e13d5c33-3a1b-434c-b946-8c737d9fefa4.png"/>
+
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fábio Campos</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
-<p align="center "/>
-  This is my business card go to the link with SocialMedia
-</p>
         
 - 💼 Currently learning a lot as a Developer at Udemy (https://www.udemy.com/course/curso-web/)
 - I am also a student at Udemy Modern Web Course Complete with JavaScript 2021 + Projects
@@ -29,10 +28,10 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Nextjs](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Angular](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![TypeScript](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=postgresql)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=postgresql)&nbsp;
   
  ## ⚙️ &nbsp;GitHub Analytics
  
@@ -57,7 +56,6 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
  <img align="center" src="https://img.shields.io/badge/-fabiocamposeagle-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
 
 <br><br>
 
