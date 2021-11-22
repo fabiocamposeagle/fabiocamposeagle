@@ -46,7 +46,7 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
+<p align="center" style="background:yellow">
   
 <a href="https://twitter.com/fabioeagle72" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-fabioeagle72-05122A?style=flat&logo=twitter" alt="twitter"/>  
