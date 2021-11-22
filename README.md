@@ -61,7 +61,7 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 
 <br><br>
 
-<p align='center'> Thanks for your visit 😁</p>
+## <p align='center'>Thanks for your visit 😁</p>
 <!--
 **fabiocamposeagle/fabiocamposeagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
