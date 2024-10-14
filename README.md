@@ -54,9 +54,6 @@ in 2021 I participated in two bootcamps at the school https://online.igti.com.br
 <a href="https://linkedin.com/in/fabiocamposeagle" target="_blank">
   <img align="center" src="https://img.shields.io/badge/fabiocamposeagle-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/fabiocamposeagle" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-fabiocamposeagle-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
 
 <br><br>
